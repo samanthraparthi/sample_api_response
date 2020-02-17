@@ -1,0 +1,44 @@
+{
+    "reviews":[{
+        "SHORTTITLE": "Vivamus sit Amet urna",
+        "TYPE": "Memo-DL",
+        "STATE": "Reviewed",
+        "MYROLE": "Lead Author",
+        "SECTION": "XYZ - Lorem.",
+        "AUTHOR": "Lorem 2",
+        "DEADLINE": "Jan-11-2020",
+        "ACTIONS": "SELECT"
+    },
+    
+    {
+        "SHORTTITLE": "",
+        "TYPE": "Memo2-DL",
+        "STATE": "",
+        "MYROLE": "",
+        "SECTION": "",
+        "AUTHOR": "Lorem -3",
+        "DEADLINE": "Feb-16-2020",
+        "ACTIONS": ""
+    },
+    {
+        "SHORTTITLE": "",
+        "TYPE": "Memo3-DL",
+        "STATE": "TODO",
+        "MYROLE": "",
+        "SECTION": "",
+        "AUTHOR": "",
+        "DEADLINE": "",
+        "ACTIONS": "SELECT"
+    },
+    {
+        "SHORTTITLE": "",
+        "TYPE": "Memo4-DL",
+        "STATE": "TODO",
+        "MYROLE": "",
+        "SECTION": "",
+        "AUTHOR": "",
+        "DEADLINE": "Feb-15-2021",
+        "ACTIONS": ""
+    }
+]
+}
